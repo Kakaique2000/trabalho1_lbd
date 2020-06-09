@@ -13,7 +13,7 @@ Senha > admin
 
 ### Postgres
 
-Usuario > admin
+Usuario > postgres
 
 Senha > admin
 
